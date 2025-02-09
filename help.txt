@@ -1,0 +1,3 @@
+^  Summary | Redirects certain actions to HTTPS |
+
+Such redirection is typically done in server configuration, but if it hasn't been done, this plugin will make sure actions involving sensitive information will take place over HTTPS.

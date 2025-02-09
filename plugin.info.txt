@@ -1,0 +1,6 @@
+base   linkcheck
+author Ahmet Sacan
+date   2025-02-07
+name   linkcheck plugin
+desc   Check external links and show validity status
+url    https://github.com/ahmetsacan/dokuwiki-linkcheck

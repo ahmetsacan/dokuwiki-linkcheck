@@ -1,0 +1,14 @@
+a.linkcheck_valid,a.linkcheck_invalid,a.linkcheck_error {
+   background-repeat: no-repeat;
+    background-position: 0 center;
+    padding: 0 0 0 18px;
+}
+a.linkcheck_valid {
+    background-image: url("images/linkcheck_valid.png");
+}
+a.linkcheck_invalid {
+    background-image: url("images/linkcheck_invalid.png");
+}
+a.linkcheck_error {
+    background-image: url("images/linkcheck_error.png");
+}
